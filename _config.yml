@@ -1,0 +1,14 @@
+layout_spectrum: 0.8097790682222694
+typography_spectrum: 0.3508693480398506
+color:
+  brandStrength: 0.23932722373865545
+  lightness: 0.01536406297236681
+  saturation: 0.8325192092452198
+  rhythmicContrast: 0.056249297223985195
+  brandColors:
+    - '#6C6E58'
+    - '#3E423A'
+    - '#417378'
+    - '#A4CFBE'
+    - '#F4F7D9'
+name: WCC2016
